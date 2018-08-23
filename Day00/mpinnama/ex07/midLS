@@ -1,0 +1,1 @@
+find $DIR -not -path '*/\.*' -type f \( ! -iname ".*" \)

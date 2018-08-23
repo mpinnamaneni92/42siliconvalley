@@ -1,0 +1,5 @@
+Credentials cache: API:CEE75B53-771A-4095-854C-C99DD29B8894
+        Principal: mpinnama@42.US.ORG
+
+  Issued                Expires               Principal
+Aug 21 14:13:28 2018  Aug 22 00:13:28 2018  krbtgt/42.US.ORG@42.US.ORG
